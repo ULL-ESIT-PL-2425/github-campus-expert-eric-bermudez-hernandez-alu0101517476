@@ -11,7 +11,7 @@
 
 ## Crear equipo con nombre correcto
 
-![equipo](docs/team_PL.png)
+![equipo](docs/Team_PL.png)
 
 ## Crear un project board kanban para este repositorio
 
