@@ -19,4 +19,5 @@
 
 ## Solicitar el GitHub Backpack
 Anteriormente ya había soplicitado el Github Backpack, por lo que al volver a intentar solicitarlo, aparece lo siguiente: 
+
 ![github backpack](docs/BackpackEric.png)
