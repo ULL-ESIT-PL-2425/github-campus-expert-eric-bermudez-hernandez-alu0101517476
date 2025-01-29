@@ -15,7 +15,7 @@
 
 ## Crear un project board kanban para este repositorio
 
-![project board kanban](docs/kanban_Eric.png)
+![project board kanban](docs/Kanban_Eric.png)
 
 ## Solicitar el GitHub Backpack
 
