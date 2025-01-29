@@ -7,7 +7,7 @@
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![correo de confirmacion del cuestionario](docs/cuestionario PL hecho.png)
+![correo de confirmacion del cuestionario](docs/equipo.png)
 
 ## Crear equipo con nombre correcto
 
