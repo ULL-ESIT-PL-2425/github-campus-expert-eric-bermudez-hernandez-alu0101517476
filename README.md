@@ -15,7 +15,7 @@
 
 ## Crear un project board kanban para este repositorio
 
-![project board kanban](docs/Kaban2.png)
+![project board kanban](docs/Kanbantodo.png)
 
 ## Solicitar el GitHub Backpack
 Anteriormente ya había soplicitado el Github Backpack, por lo que al volver a intentar solicitarlo, aparece lo siguiente: 
